@@ -17,6 +17,6 @@ A simple web application built with HTML, CSS, and JavaScript that allows users 
 
 ## Demo
 
-![Subway Passenger Counter Screenshot](screenshot.png)  
+![Subway Passenger Counter Screenshot](Screenshot.png)  
 
 
